@@ -7,8 +7,3 @@ Steps to run this code:
 
 3. Verify Payment API included.
 
-# Payumoney test mode credetilas 
-Payumoney payment gateway test credetilas 
-$action = 'https://test.payu.in/_payment';	
-$key="oZ7oo9";
-$salt="UkojH5TS";
