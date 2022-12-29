@@ -7,4 +7,4 @@ Steps to run this code:
 
 3. Verify Payment API included.
 
-You can <a href="https://technosmarter.com/contact">contact</a> form help & Support . 
+You can contact on https://technosmarter.com/contact form help & Support . 
